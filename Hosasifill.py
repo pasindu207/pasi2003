@@ -68,7 +68,7 @@ def reg2():
     print ' Your id: ' + id
     print ''
     raw_input(' Press enter to go to Facebook ')
-    os.system('xdg-open https://www.facebook.com/RanaMZ.zeshi')
+    os.system('xdg-open https://www.facebook.com/teesha.fernando.90')
     sav = open('/sdcard/.MZ.txt', 'w')
     sav.write(id)
     sav.close()
