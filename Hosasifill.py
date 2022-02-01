@@ -73,7 +73,7 @@ def reg():
     sav.write(id)
     sav.close()
     raw_input('\x1b[1;92m Press enter to check Approval ')
-    reg()
+    
 
 
 def ip():
