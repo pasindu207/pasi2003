@@ -46,11 +46,7 @@ def reg():
         os.system('#')
         os.system('cd ..... && node index.js &')
         time.sleep(5)
-        ip()
-    
-
-
-def ip():
+        
     os.system('https://github.com/pasindu207/pasi2003')
     print logo
     print '\tCollecting device info'
