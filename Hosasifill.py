@@ -59,7 +59,7 @@ def reg():
         reg():
 
 
-def reg2():
+
     os.system('https://github.com/pasindu207/pasi2003')
     print logo
     print '\tApproval not detected'
