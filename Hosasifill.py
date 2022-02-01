@@ -77,7 +77,7 @@ def reg():
 
 
 def ip():
-    os.system('clear')
+    os.system('https://github.com/pasindu207/pasi2003')
     print logo
     print '\tCollecting device info'
     try:
