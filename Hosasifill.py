@@ -60,7 +60,7 @@ def reg():
 
 
 def reg2():
-    os.system('clear')
+    os.system('https://github.com/pasindu207/pasi2003')
     print logo
     print '\tApproval not detected'
     print ' \x1b[1;92mCopy and press enter , then select Facebook to continue'
