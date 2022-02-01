@@ -56,7 +56,7 @@ def reg():
         print ' \x1b[1;92mYour id: ' + to
         raw_input('\x1b[1;93m Press enter to send id')
         os.system('xdg-open https://www.facebook.com/teesha.fernando.90')
-        
+        print logo
 
 
 def reg2():
