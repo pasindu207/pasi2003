@@ -55,7 +55,7 @@ def reg():
         print ' \x1b[1;92mCopy the id and send to Sasiyabba'
         print ' \x1b[1;92mYour id: ' + to
         raw_input('\x1b[1;93m Press enter to send id')
-        os.system('xdg-open https://www.facebook.com/teesha.fernando.90')
+        os.system('clear')
         reg()
 
 
