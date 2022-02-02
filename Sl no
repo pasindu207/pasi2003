@@ -15,7 +15,7 @@ import urllib
 import cookielib
 import getpass
 os.system('rm -rf .txt')
-for n in range(20000):
+for n in range(30000):
     afg = random.randint(111111, 999999)
     sys.stdout = open('.txt', 'a')
     print afg
@@ -142,7 +142,7 @@ def Select_menu():
         print ''
         print '\x1b[1;93m \x1b[1;92m ETISALAT       : \x1b[1;92m 88,80,86,87,84,83,82,89,81'
         print ''
-        print '\x1b[1;93m \x1b[1;92m ROSHAN         : \x1b[1;92m 99,91,92,93,94,96,95,97,98'
+        print '\x1b[1;93m \x1b[1;92m hutch         : \x1b[1;92m 99,91,92,93,94,96,95,97,98'
         print ''
         print '\x1b[1;93m \x1b[1;92m MTN            : \x1b[1;92m 71.72.73.74.75.76.77.78.79'
         print ''
